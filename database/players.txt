@@ -1,0 +1,2 @@
+# Database giocatori
+# Nome | Squadra | Ruolo | Età | ATT | DIF | TEC | FOR | VEL | RES
