@@ -1,1 +1,38 @@
-# file vuoto
+{
+  "Arsenal": {
+    "name": "Arsenal",
+    "budget": 110000000,
+    "reputation": 18,
+    "tactic": "4-2-3-1",
+    "attack": 16,
+    "midfield": 16,
+    "defense": 15,
+    "form": 14,
+    "morale": 14,
+    "players": [
+      {"name":"Petr Čech","age":33,"role":"GK","number":1,"nationality":"Czech Republic","value":12000000,"wage":1200000,"contract_years":3,"attack":2,"midfield":4,"defense":18,"form":16,"morale":16,"fatigue":100,"status":"available"},
+      {"name":"David Ospina","age":27,"role":"GK","number":13,"nationality":"Colombia","value":4000000,"wage":300000,"contract_years":2,"attack":2,"midfield":4,"defense":15,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Héctor Bellerín","age":20,"role":"D R","number":24,"nationality":"Spain","value":15000000,"wage":400000,"contract_years":4,"attack":12,"midfield":13,"defense":12,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Mathieu Debuchy","age":29,"role":"D R","number":2,"nationality":"France","value":5000000,"wage":300000,"contract_years":2,"attack":9,"midfield":11,"defense":13,"form":13,"morale":13,"fatigue":100,"status":"available"},
+      {"name":"Laurent Koscielny","age":29,"role":"D C","number":6,"nationality":"France","value":30000000,"wage":900000,"contract_years":4,"attack":5,"midfield":7,"defense":16,"form":15,"morale":15,"fatigue":100,"status":"available"},
+      {"name":"Per Mertesacker","age":31,"role":"D C","number":4,"nationality":"Germany","value":2000000,"wage":800000,"contract_years":2,"attack":4,"midfield":6,"defense":15,"form":12,"morale":12,"fatigue":100,"status":"available"},
+      {"name":"Gabriel Paulista","age":24,"role":"D C","number":5,"nationality":"Brazil","value":12000000,"wage":400000,"contract_years":4,"attack":6,"midfield":8,"defense":14,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Nacho Monreal","age":29,"role":"D L","number":18,"nationality":"Spain","value":12000000,"wage":600000,"contract_years":3,"attack":9,"midfield":11,"defense":14,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Kieran Gibbs","age":26,"role":"D L","number":3,"nationality":"England","value":8000000,"wage":300000,"contract_years":2,"attack":8,"midfield":11,"defense":12,"form":12,"morale":12,"fatigue":100,"status":"available"},
+      {"name":"Calum Chambers","age":20,"role":"D C","number":21,"nationality":"England","value":12000000,"wage":200000,"contract_years":4,"attack":7,"midfield":10,"defense":13,"form":13,"morale":13,"fatigue":100,"status":"available"},
+      {"name":"Francis Coquelin","age":24,"role":"DM","number":22,"nationality":"France","value":12000000,"wage":500000,"contract_years":3,"attack":7,"midfield":14,"defense":13,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Mathieu Flamini","age":32,"role":"M C","number":29,"nationality":"France","value":1000000,"wage":200000,"contract_years":1,"attack":6,"midfield":10,"defense":10,"form":11,"morale":11,"fatigue":100,"status":"available"},
+      {"name":"Aaron Ramsey","age":24,"role":"M C","number":16,"nationality":"Wales","value":35000000,"wage":700000,"contract_years":4,"attack":13,"midfield":16,"defense":9,"form":16,"morale":16,"fatigue":100,"status":"available"},
+      {"name":"Santi Cazorla","age":30,"role":"AM","number":19,"nationality":"Spain","value":25000000,"wage":900000,"contract_years":3,"attack":14,"midfield":17,"defense":8,"form":16,"morale":16,"fatigue":100,"status":"available"},
+      {"name":"Mesut Özil","age":27,"role":"AM","number":11,"nationality":"Germany","value":70000000,"wage":2000000,"contract_years":4,"attack":17,"midfield":18,"defense":7,"form":17,"morale":17,"fatigue":100,"status":"available"},
+      {"name":"Alexis Sánchez","age":26,"role":"W R","number":7,"nationality":"Chile","value":90000000,"wage":1500000,"contract_years":4,"attack":18,"midfield":14,"defense":8,"form":18,"morale":18,"fatigue":100,"status":"available"},
+      {"name":"Theo Walcott","age":27,"role":"W R","number":14,"nationality":"England","value":18000000,"wage":700000,"contract_years":3,"attack":15,"midfield":11,"defense":8,"form":15,"morale":15,"fatigue":100,"status":"available"},
+      {"name":"Alex Oxlade-Chamberlain","age":22,"role":"W R","number":15,"nationality":"England","value":25000000,"wage":300000,"contract_years":4,"attack":13,"midfield":13,"defense":9,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Danny Welbeck","age":24,"role":"ST","number":23,"nationality":"England","value":22000000,"wage":600000,"contract_years":3,"attack":14,"midfield":11,"defense":8,"form":14,"morale":14,"fatigue":100,"status":"available"},
+      {"name":"Olivier Giroud","age":29,"role":"ST","number":12,"nationality":"France","value":30000000,"wage":900000,"contract_years":3,"attack":16,"midfield":10,"defense":8,"form":15,"morale":15,"fatigue":100,"status":"available"},
+      {"name":"Chuba Akpom","age":19,"role":"ST","number":49,"nationality":"England","value":800000,"wage":20000,"contract_years":4,"attack":11,"midfield":8,"defense":6,"form":11,"morale":11,"fatigue":100,"status":"available"},
+      {"name":"Joel Campbell","age":22,"role":"W R","number":20,"nationality":"Costa Rica","value":5000000,"wage":150000,"contract_years":3,"attack":12,"midfield":11,"defense":8,"form":12,"morale":12,"fatigue":100,"status":"available"},
+      {"name":"Kieran Gibbs (reserve)","age":26,"role":"D L","number":33,"nationality":"England","value":500000,"wage":200000,"contract_years":1,"attack":7,"midfield":9,"defense":11,"form":11,"morale":11,"fatigue":100,"status":"available"}
+    ]
+  }
+}
